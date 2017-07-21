@@ -2,7 +2,7 @@ Kasugano-Lightline
 ==================
 
 A colorscheme for [lightline](https://github.com/itchyny/lightline) inspired
-by @kori Kasugano theme as it appears on http://terminal.sexy .
+by Kori Ayakashi's Kasugano theme as it appears on http://terminal.sexy .
 
 Installation
 ----------
