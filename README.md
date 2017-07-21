@@ -12,9 +12,9 @@ Installation
 
 Add the following line to your plugins area:
 
-  Plugin "dakuten/kasugano-lightline"
+       Plugin 'dakuten/kasugano-lightline'
 
 ### Change the colorscheme
 Somewhere else in your `.vimrc`, in the definition of `g:lightline`, add the following field:
 
-  'colorscheme': 'kasugano',
+       'colorscheme': 'kasugano',
